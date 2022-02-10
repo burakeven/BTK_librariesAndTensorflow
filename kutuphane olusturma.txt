@@ -1,0 +1,10 @@
+en basta burakmodul.py adında bir dosya olusturuyoruz ve bunun içerisine;
+def ornekfonksiyon():
+     print("burak modül içerisinden örnek fonksiyon çağrıldı")
+ornekfonksiyon()
+
+ardından kendi projemiz içerisinden şunları yazarak bu modüle veya kütüphane olarakta düşünebiliriz ulaşmak için;
+from burakmodul import ornekFonksiyon
+ornekFonksiyon()
+
+dediğimiz zaman olusturmus olduğumuz modüle erişebilmiş oluyoruz.
