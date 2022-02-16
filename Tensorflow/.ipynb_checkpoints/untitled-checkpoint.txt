@@ -1,0 +1,3 @@
+#Tensorflow Nedir?
+google tarafından gelistirilen ve acik kaynakli olan kutuphanedir. Kutuphane icin ise cok ileri seviye bir aractir. Derin Ogrenme, makine ogrenmesinde fazlasiyla karsilasilir. Model olusturma, egitme ve belli basli islemler icin olmazsa olmazidir.
+Sadece python ile degil fakat en cok python ile kullanilir.
